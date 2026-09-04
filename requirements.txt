@@ -1,0 +1,13 @@
+# Core
+torch==2.11.0+cu126
+transformers==5.2.0
+kvpress==0.5.4
+flash-attn==2.8.3
+numpy==2.2.6
+
+# Evaluation (LongBench metrics)
+rouge==1.0.1
+fuzzywuzzy==0.18.0
+
+# Figures
+matplotlib==3.10.8
