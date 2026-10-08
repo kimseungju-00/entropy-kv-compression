@@ -1,4 +1,4 @@
-# Entropy-based KV Cache Compression
+# Theoretically-Grounded Memory-Efficient KV Cache Compression via Attention Entropy
 
 Single-pass KV cache compression for long-context LLMs. Tokens are selected by
 their window-averaged attention (SnapKV-style), and the per-layer keep ratio is
